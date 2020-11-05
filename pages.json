@@ -2,7 +2,7 @@
 	"pages": [{
 		"path": "pages/index/index",
 		"style": {
-			"navigationBarTitleText": "发现s"
+			"navigationBarTitleText": "发现"
 		}
 	}    ,{
             "path" : "pages/my/my",
